@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\bin\Debug\netcoreapp3.1\Abstraction,interface.exe
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\bin\Debug\netcoreapp3.1\Abstraction,interface.deps.json
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\bin\Debug\netcoreapp3.1\Abstraction,interface.runtimeconfig.json
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\bin\Debug\netcoreapp3.1\Abstraction,interface.runtimeconfig.dev.json
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\bin\Debug\netcoreapp3.1\Abstraction,interface.dll
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\bin\Debug\netcoreapp3.1\Abstraction,interface.pdb
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\obj\Debug\netcoreapp3.1\Abstraction,interface.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\obj\Debug\netcoreapp3.1\Abstraction,interface.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\obj\Debug\netcoreapp3.1\Abstraction,interface.AssemblyInfo.cs
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\obj\Debug\netcoreapp3.1\Abstraction,interface.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\obj\Debug\netcoreapp3.1\Abstraction,interface.dll
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\obj\Debug\netcoreapp3.1\Abstraction,interface.pdb
+C:\Users\Home\Desktop\homework\07112020\Abstraction,interface\obj\Debug\netcoreapp3.1\Abstraction,interface.genruntimeconfig.cache

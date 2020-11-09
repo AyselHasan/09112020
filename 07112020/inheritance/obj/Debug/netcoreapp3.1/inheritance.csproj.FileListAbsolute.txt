@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\homework\07112020\inheritance\bin\Debug\netcoreapp3.1\inheritance.exe
+C:\Users\Home\Desktop\homework\07112020\inheritance\bin\Debug\netcoreapp3.1\inheritance.deps.json
+C:\Users\Home\Desktop\homework\07112020\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.json
+C:\Users\Home\Desktop\homework\07112020\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.dev.json
+C:\Users\Home\Desktop\homework\07112020\inheritance\bin\Debug\netcoreapp3.1\inheritance.dll
+C:\Users\Home\Desktop\homework\07112020\inheritance\bin\Debug\netcoreapp3.1\inheritance.pdb
+C:\Users\Home\Desktop\homework\07112020\inheritance\obj\Debug\netcoreapp3.1\inheritance.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\homework\07112020\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\homework\07112020\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfo.cs
+C:\Users\Home\Desktop\homework\07112020\inheritance\obj\Debug\netcoreapp3.1\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\homework\07112020\inheritance\obj\Debug\netcoreapp3.1\inheritance.dll
+C:\Users\Home\Desktop\homework\07112020\inheritance\obj\Debug\netcoreapp3.1\inheritance.pdb
+C:\Users\Home\Desktop\homework\07112020\inheritance\obj\Debug\netcoreapp3.1\inheritance.genruntimeconfig.cache

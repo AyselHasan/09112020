@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\homework\07112020\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.exe
+C:\Users\Home\Desktop\homework\07112020\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.deps.json
+C:\Users\Home\Desktop\homework\07112020\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.runtimeconfig.json
+C:\Users\Home\Desktop\homework\07112020\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.runtimeconfig.dev.json
+C:\Users\Home\Desktop\homework\07112020\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.dll
+C:\Users\Home\Desktop\homework\07112020\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.pdb
+C:\Users\Home\Desktop\homework\07112020\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\homework\07112020\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\homework\07112020\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.AssemblyInfo.cs
+C:\Users\Home\Desktop\homework\07112020\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\homework\07112020\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.dll
+C:\Users\Home\Desktop\homework\07112020\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.pdb
+C:\Users\Home\Desktop\homework\07112020\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.genruntimeconfig.cache
